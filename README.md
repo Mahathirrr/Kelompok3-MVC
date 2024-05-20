@@ -44,7 +44,7 @@ Contributions in the form of bug reports, feature requests, or pull requests are
 - Nurfitriyana sajim (24001031043604513)
 - Farhanul Khair ( 2208107010076 )
 - Athar Rayyan Muhammad ( 2208107010074 )
-- Alfi Zamriza (2208107010080)
+- Alfi Zamriza ( 2208107010080 )
 
 ## License
 
