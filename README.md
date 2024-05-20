@@ -39,8 +39,8 @@ Contributions in the form of bug reports, feature requests, or pull requests are
 
 ## Contributors
 
-- Muhammad Mahathir (2208107010056)
-- Ganang Setyo Hadi (2208107010052)
+- Muhammad Mahathir ( 2208107010056 )
+- Ganang Setyo Hadi ( 2208107010052 )
 - Nurfitriyana sajim (24001031043604513)
 - Farhanul Khair ( 2208107010076 )
 - Athar Rayyan Muhammad ( 2208107010074 )
